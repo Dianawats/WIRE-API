@@ -1,9 +1,9 @@
 [![Coverage Status](https://coveralls.io/repos/github/AndelaOSP/wire-api/badge.svg?branch=develop)](https://coveralls.io/github/AndelaOSP/wire-api?branch=develop)
 [![CircleCI](https://circleci.com/gh/AndelaOSP/wire-api/tree/develop.svg?style=svg)](https://circleci.com/gh/AndelaOSP/wire-api/tree/develop)
 
-# wire-api
+# WIRE-API
 
-WIRE-API powers [WIRE](https://github.com/AndelaOSP/wire)
+WIRE-API Powers [WIRE](https://github.com/Dianawats/WIRE-API.git)
 
 ### Quick Set-up
 
@@ -16,7 +16,7 @@ First install the following below locally:
 Clone repo:
 
 ```
-git clone https://github.com/AndelaOSP/wire-api.git
+git clone https://github.com/Dianawats/WIRE-API.git
 ```
 
 Navigate to repo:
@@ -63,9 +63,9 @@ yarn start:dev
 
 Navigate to the port and test the endpoints on postman
 
-<!-- ### Screenshots
+### Screenshots
 
-<img width="1097" alt="wire-api" src="https://user-images.githubusercontent.com/16113214/30543777-f7e5ad12-9c8c-11e7-80e0-b5fd3fa36546.png"> -->
+<img width="1097" alt="wire-api" src="https://user-images.githubusercontent.com/16113214/30543777-f7e5ad12-9c8c-11e7-80e0-b5fd3fa36546.png">
 
 ### Api Documentation
 
