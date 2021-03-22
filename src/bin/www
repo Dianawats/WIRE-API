@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+
+const { server } = require('../index.js'); // The express app we just created
+
+const port = parseInt(process.env.PORT, 10) || 8000;
+
+console.log(`Application started at http://localhost:${port}`);
+
+server.listen(port);
